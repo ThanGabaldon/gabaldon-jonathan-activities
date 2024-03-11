@@ -1,0 +1,25 @@
+
+h1 {
+    font-size: 30px;
+    color: rgb(20, 4, 253);
+}
+
+
+Label {
+    background-color: rgb(251, 255, 0);
+}
+
+#userLabel{
+    font-size: 30px;
+}
+
+#passLabel{
+    font-size: 30px;
+}
+
+.labelClass {
+    color: red;
+}
+body {
+    background-color: rgb(0, 217, 255);
+}
